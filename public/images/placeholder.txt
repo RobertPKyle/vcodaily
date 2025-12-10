@@ -1,0 +1,7 @@
+Place your story images in this directory.
+
+For now, the site will display placeholder images.
+You can replace these with actual images matching the filenames in the stories data:
+- world-peace.jpg
+- reality-bender.jpg
+- coffee-machine.jpg
