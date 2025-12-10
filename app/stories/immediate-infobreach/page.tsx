@@ -37,7 +37,7 @@ export default function CoffeeMachineKeter() {
             <p className="mb-4">
               On Tuesday the 9th of the year 2025, SCP-079 gained unauthorized access to the web via a laptop left near its containment cell. SCP-079 was, through and 
               anomolous means, transfer itself to the laptop and, within 20 minutes, created this website. Despite mobilazition of MTF to the site, the website was already
-              purchased by SCP-079 and renewed for a 1 year period. The O5 council, on a vote of 9 to 3, have decided to let the website stay up. We are unsite why SCP-079 
+              purchased by SCP-079 and renewed for a 1 year period. The O5 council, on a vote of 9 to 3, have decided to let the website stay up. We are unsure why SCP-079 
               chose this method of attack on the human population but for now there is nothing the foundation can do.
             </p>
 
