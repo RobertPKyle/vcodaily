@@ -29,6 +29,14 @@ export default function Navigation() {
             >
               Support
             </Link>
+            <a
+              href="https://linktr.ee/Site65Podcast"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-red-400 transition-colors font-medium"
+            >
+              Site-65 Podcast
+            </a>
           </div>
         </div>
       </div>
