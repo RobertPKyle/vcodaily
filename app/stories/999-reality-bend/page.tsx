@@ -13,7 +13,7 @@ export default function CoffeeMachineKeter() {
       <div className="bg-white rounded-lg shadow-lg overflow-hidden">
         <div className="relative w-full h-96 bg-gradient-to-r from-red-400 to-orange-400">
           <div className="absolute inset-0 flex items-center justify-center text-white text-2xl font-bold">
-            <img src="/images/scp999.jpg" alt="SCP-999" width="400" height="400"></img>
+            <img src="/images/scp999.jpg" alt="SCP-999" width="400" height="300"></img>
           </div>
         </div>
 
