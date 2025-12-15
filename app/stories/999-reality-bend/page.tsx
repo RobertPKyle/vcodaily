@@ -20,7 +20,7 @@ export default function CoffeeMachineKeter() {
         <div className="p-8">
           <div className="mb-6">
             <span className="px-3 py-1 rounded-full text-xs font-semibold bg-red-100 text-red-800">
-              Keter
+              Safe
             </span>
             <time className="ml-4 text-sm text-gray-500">December 12, 2025</time>
           </div>
